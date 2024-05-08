@@ -1,2 +1,2 @@
-# Tesla---Financial-Analysis
+# Tesla-Financial-Analysis
 Financial Analysis on Tesla Inc.
